@@ -1,0 +1,54 @@
+﻿@model IEnumerable<LogisticsFlow.Models.Shipment>
+
+<div class="container mt-4">
+    <h1 class="display-4 text-primary">Logistics Flow Dashboard</h1>
+    <p class="lead">Monitoring real-time shipment workflows for core logistics partners.</p>
+
+    <div class="card shadow-sm p-4 mb-4 bg-light">
+        <div class="row align-items-center">
+            <div class="col-md-8">
+                <h5>Shipment Tracking Search</h5>
+                <input type="text" id="searchInput" class="form-control" placeholder="Enter Tracking Number (e.g. TRK001)...">
+            </div>
+            <div class="col-md-4">
+                <button class="btn btn-primary w-100 mt-4" onclick="filterTable()">Search Records</button>
+            </div>
+        </div>
+    </div>
+
+    <table class="table table-hover border">
+        <thead class="table-dark">
+            <tr>
+                <th>Tracking #</th>
+                <th>Carrier</th>
+                <th>Status</th>
+                <th>Destination</th>
+            </tr>
+        </thead>
+        <tbody id="shipmentTable">
+            @foreach (var item in Model) {
+                <tr>
+                    <td><strong>@item.TrackingNumber</strong></td>
+                    <td>@item.CarrierName</td>
+                    <td>
+                        <span class="badge @(item.Status == "Delayed" ? "bg-danger" : "bg-success")">
+                            @item.Status
+                        </span>
+                    </td>
+                    <td>@item.Destination</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function filterTable() {
+        let input = document.getElementById('searchInput').value.toLowerCase();
+        let rows = document.querySelectorAll('#shipmentTable tr');
+        rows.forEach(row => {
+            let text = row.querySelector('td strong').textContent.toLowerCase();
+            row.style.display = text.includes(input) ? '' : 'none';
+        });
+    }
+</script>

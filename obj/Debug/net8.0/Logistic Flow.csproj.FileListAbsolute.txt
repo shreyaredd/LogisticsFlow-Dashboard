@@ -1,0 +1,30 @@
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\bin\Debug\net8.0\appsettings.json
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\bin\Debug\net8.0\Logistic Flow.staticwebassets.runtime.json
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\bin\Debug\net8.0\Logistic Flow.exe
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\bin\Debug\net8.0\Logistic Flow.deps.json
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\bin\Debug\net8.0\Logistic Flow.runtimeconfig.json
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\bin\Debug\net8.0\Logistic Flow.dll
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\bin\Debug\net8.0\Logistic Flow.pdb
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\Logistic Flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\Logistic Flow.AssemblyInfoInputs.cache
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\Logistic Flow.AssemblyInfo.cs
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\Logistic Flow.csproj.CoreCompileInputs.cache
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\Logistic Flow.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\Logistic Flow.RazorAssemblyInfo.cache
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\Logistic Flow.RazorAssemblyInfo.cs
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\staticwebassets\msbuild.Logistic Flow.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\staticwebassets\msbuild.build.Logistic Flow.props
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Logistic Flow.props
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Logistic Flow.props
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\scopedcss\bundle\Logistic Flow.styles.css
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\scopedcss\projectbundle\Logistic Flow.bundle.scp.css
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\Logistic Flow.dll
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\refint\Logistic Flow.dll
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\Logistic Flow.pdb
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\Logistic Flow.genruntimeconfig.cache
+C:\Users\poreddy shreya reddy\OneDrive\Desktop\Logistic Flow\obj\Debug\net8.0\ref\Logistic Flow.dll
